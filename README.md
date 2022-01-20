@@ -11,3 +11,12 @@ Exploratory data analysis performed to understand the distribution of the data t
 RFM (Recency - Frequency - Monetary values) is based on their recent purchase behavior, the frequency of their purchases, and the total money spent by each customers.
 
 Elbow method, Flattened graph, and Snake plot used to understand the number of clusters. Four clusters were the optimum number of clusters.
+
+
+## 2.Mall Customer Cluster Analysis
+
+This analysis analyze the kaggle dataset "Mall Customer Segmentation Data" and presented the understanding of the customers and their purchase behavior. This project is based on visualization and the clustering of customers is presented based on the scatter plot of Spending score (1-100) and Annual Income. 
+
+Library used: pandas, numpy, seaborn, and pyplot.
+
+Visualizations: bar chart, countplot, histogram, scatterplot, and heatmap.
